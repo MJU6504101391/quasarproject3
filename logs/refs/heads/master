@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 497c7e80f46872700cb5f8ac4464537c9262f35b MJU6504101391 <nightkeezaza@gmail.com> 1692759063 +0700	commit (initial): 1st project-quasar
+497c7e80f46872700cb5f8ac4464537c9262f35b cad3873b7609107cd23463c82cbb2f270a85b7d0 MJU6504101391 <nightkeezaza@gmail.com> 1692759594 +0700	commit: add template in IndexPage.vue
+cad3873b7609107cd23463c82cbb2f270a85b7d0 d936291b21d291d05cfdc881482f6f272dfd7b6c MJU6504101391 <nightkeezaza@gmail.com> 1692760345 +0700	commit: add script in IndexPage.vue
+d936291b21d291d05cfdc881482f6f272dfd7b6c 8198bed3d839f6b79eabaee81a6a46046c021fc6 MJU6504101391 <nightkeezaza@gmail.com> 1692762432 +0700	commit: Add 'notify' in quasar.config.js
+8198bed3d839f6b79eabaee81a6a46046c021fc6 53bd553eff6f765c1896abc5129ed4a87fe549d8 MJU6504101391 <nightkeezaza@gmail.com> 1692764252 +0700	commit (merge): Merge branch 'thai-lang'
+53bd553eff6f765c1896abc5129ed4a87fe549d8 3b19778b8c2a0ae01665e7d768b6e9c806d63760 MJU6504101391 <nightkeezaza@gmail.com> 1692764407 +0700	commit: Change label to Thai language in IndexPage.vue
